@@ -26,8 +26,6 @@ Update Member/Student Records.
 ## Modules
 Admin login
 
-Search Books
-
 Add and Update Books
 
 Add and Remove Members
