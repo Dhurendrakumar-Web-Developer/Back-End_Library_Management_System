@@ -32,7 +32,7 @@ Add and Remove Members
 
 Issue Books
 ## Technology Stack Used
-Front End - HTML, CSS, JavaScript
+Front End - HTML, CSS, JavaScript, Bootstrap
 
 Back End - PHP
 
