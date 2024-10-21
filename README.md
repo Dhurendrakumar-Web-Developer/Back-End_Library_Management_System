@@ -38,12 +38,14 @@ Back End - PHP
 
 Database - MySql
 ## Installing
-Download MAMP
+Download XAMPP
+
+XAMPP Server Download Link:-  https://www.apachefriends.org/
 ## How to run?
 Download this repo and extract it in your www/htdocs directory.
 
-Import the [database] from db folder.
+Import the [database].
 
-Configure dbcon.php
+Configure Connection.php
 
 Run localhost/{YOUR FOLDER NAME}
